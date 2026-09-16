@@ -1,0 +1,17 @@
+{
+  "name": "jira-attachment-plugin",
+  "owner": {
+    "name": "Vitor Araujo",
+    "email": "vitorgamer58@gmail.com"
+  },
+  "metadata": {
+    "description": "Skill to download Jira Cloud issue attachments using the official Atlassian MCP"
+  },
+  "plugins": [
+    {
+      "name": "jira-attachment-plugin",
+      "source": "./",
+      "description": "Download Jira Cloud issue attachments for the agent to read"
+    }
+  ]
+}

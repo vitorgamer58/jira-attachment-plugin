@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jira-attachment-plugin",
+  "displayName": "Jira Attachment Plugin",
+  "version": "2.0.0",
+  "description": "Skill to download Jira Cloud issue attachments via the official Atlassian MCP so the agent can read them",
+  "author": {
+    "name": "Vitor Araujo",
+    "email": "vitorgamer58@gmail.com",
+    "url": "https://github.com/vitorgamer58"
+  },
+  "homepage": "https://github.com/vitorgamer58/jira-attachment-plugin",
+  "repository": "https://github.com/vitorgamer58/jira-attachment-plugin",
+  "keywords": ["jira", "skill", "attachments"],
+  "skills": "./skills/"
+}

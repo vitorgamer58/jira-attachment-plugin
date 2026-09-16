@@ -1,0 +1,5 @@
+node_modules/
+.attachments/
+.cursor/jira-attachments/
+.cursor/jira-media/
+.env
